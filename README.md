@@ -1,3 +1,35 @@
+# Blockchain AI Agent
+
+An AI agent designed to interact with blockchain networks including Solana and Bitcoin.
+
+## Features
+
+- Multi-blockchain support (Solana, Bitcoin)
+- AI-powered decision making
+- Automated trading capabilities
+- Real-time market analysis
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Configure your blockchain connections
+4. Run the application: `npm start`
+
+## Usage
+
+The AI agent analyzes blockchain data and executes trades based on learned patterns and market conditions.
+
+## Supported Networks
+
+- Solana
+- Bitcoin
+- Additional networks coming soon
+
+## Warning
+
+This software is for educational purposes. Test thoroughly before using with real funds.
+
 **Blockchain AI Agent**
 =====================================
 
